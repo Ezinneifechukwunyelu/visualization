@@ -7,10 +7,31 @@
 - Data visualizations are important tools for communication and convincing; we need to be able to evaluate the ways that data are presented in visual form to be critical consumers of information 
 - To test your evaluation skills, locate two public data visualizations online, one good and one bad  
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
+
+Bad Visualizatio:https://www.themarshallproject.org/next-to-die#intro (the bar line graphs)
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      - it is unclear what the Y-axis is quantifying, makes for tedious interpretation
+      - The scale on the Y-axis is not uniform. requires reader to consider the implication of this on the meaning of the graph.Granted it may have been done to improve differentiation between lines that will otherwise overlap or fall close to zero compared to the maximum (Texas)
+
+
+      ```
+    - How could this data visualization have been improved?  
+      ```
+     -  label the X and Y axis
+     -  make the scale of Y-axis uniform and intiuitive
+     - use colour as well as line pattern to make it easier to follow each line
+     - add legend to graph 
+
+Good Visualization: https://wp_media-prod.s3.amazonaws.com/app/uploads/2015/09/24113017/Infographic_Design_Example_Digit.png
+For each visualization (good and bad):  
+    - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
+      ```
+      -Graph is easy to read and what is being comminicated is clear and can be understood intuitively even without reading the full discription 
+      -additional information on the graph regarding states where marijuana has been legalized or decriminalized or used medicinal is placed in such a way that it does not distract the reader and it is easy to follow
+
+      one critique is that if one wasnt an american or know much about america it will be a little difficult with the abbrevation of the states
 
 
 
@@ -21,8 +42,7 @@
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
-
+     maybe have a legend for the states
 
 
 
