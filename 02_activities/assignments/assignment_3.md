@@ -8,22 +8,28 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
-
+Python and Excel
     > Who is your intended audience? 
-    
+    Environmental and Water Engineers
     > What information or message are you trying to convey with your visualization? 
-    
+    Number of basement flooding events in the city of Toronto per ward reported over a 2005 to 2023
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
+    Audience and simplicity
+    Audience : Since the audience are Engineers familiar with the the topic of floods, this influnced the choice of how data was presented. For this field, its important to understand 2 types of flood given the layout of city's waste and storm water collection infrastructure(i.e comparision between basement floods from events like rain(BF) and basement floods from events like sewage overflow (BFPSP))
+    Simplicity: Raw data was as events per year per ward, to simplify this infomation, data was summerized to total events for the reported duration, making it easy to see which wards need critical attention
     
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+    The Python Code is produciable by providing the data set used for the plot.
+    The Excel plot is partly reproduciable interms of the quantities plotted but features of the plot such as fonts, color cannot be reproduced. Thus these attributes may change depending on where the graph is displayed. However the quantities will remain the same and overall conclusion from data will not change.
     
     > How did you ensure that your data visualization is accessible?  
-    
+    Defrentiated the two parameters by colour as well as line pattern
     > Who are the individuals and communities who might be impacted by your visualization?  
-    
+    The city of Toronto and their residents
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    
+    deciding the audience and condifering the intutions of the audience
     > What ‘underwater labour’ contributed to your final data visualization product?
+    understanding the data set itself and decideing what to plot
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
